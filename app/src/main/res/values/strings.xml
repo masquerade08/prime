@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">prime</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_account">new account</string>
+    <string name="msg_info">Sorry,Service yet not available </string>
+    <string name="new_to_prime_vedio">*****NEW TO PRIME VEDIO******</string>
+    <string name="sign_in_with_your_id">Sign in with your ID</string>
+    <string name="prime_video">Prime Video</string>
+    <string name="home">home</string>
+    <string name="tvshow">tvshow</string>
+    <string name="movies">movies</string>
+    <string name="sports">sports</string>
+</resources>
